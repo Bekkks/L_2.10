@@ -1,3 +1,0 @@
-hello Golang 
-hello Bekk_s
-hello A
